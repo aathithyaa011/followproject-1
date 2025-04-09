@@ -20,4 +20,4 @@ elif c>a and c>b:
     else:
         print("A is the 2nd Biggest\nB is the Lowest Number")
 else:
-    print("Maybe All the Numbers are Same")
+    print("All numbers are equal")
